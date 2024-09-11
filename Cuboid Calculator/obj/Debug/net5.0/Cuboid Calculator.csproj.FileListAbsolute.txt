@@ -1,0 +1,16 @@
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.exe
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.deps.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.runtimeconfig.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.runtimeconfig.dev.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\ref\Cuboid Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\bin\Debug\net5.0\Cuboid Calculator.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.csproj.AssemblyReference.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.AssemblyInfoInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.AssemblyInfo.cs
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.csproj.CoreCompileInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\ref\Cuboid Calculator.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Cuboid Calculator\obj\Debug\net5.0\Cuboid Calculator.genruntimeconfig.cache
